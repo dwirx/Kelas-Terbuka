@@ -1,0 +1,1 @@
+std::cout << "Indonesia Merdeka 1945" << std::endl;
